@@ -1,1 +1,1 @@
-# Suhag_Resume
+This repository contains my resume, showcasing my skills and experiences as a Computer Science Engineering graduate with a focus on full-stack development. You can download the resume in PDF format or explore my work history, including internships at Capgemini, Alstom, and Varcons Tech. My skill set includes JavaScript, TypeScript, Python, Django, and Drizzle ORM. Feel free to download the resume or contact me for further details.
